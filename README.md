@@ -1,2 +1,5 @@
-# my_first_python.py
-This is my Python page
+print("Hello, Suzanne!")
+a = 5
+b = 10
+sum = a + b
+print("The sum of", a, "and", b, "is", sum)
